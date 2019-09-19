@@ -3,3 +3,17 @@ Interpreter 3.6 (ven 4)
 
 The purpose of this code is to learn and test the Kivy GUI framework.
 
+First try and no luck.
+I even downloaded the two dependencies:
+kivy_deps
+kivy_deps.sdl2
+And:
+gstreamer
+glew
+sdl2
+
+Use this verbatim to run an app:
+
+if __name__ == '__main__':
+    MyApp().run()
+
